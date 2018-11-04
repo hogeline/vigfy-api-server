@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  weight: 1.5
+  height: 1.5
+  bodyfat: 1.5
+  leftarm: 1.5
+  rightarm: 1.5
+  body: 1.5
+  leftleg: 1.5
+  rightleg: 1.5
+
+two:
+  user_id: 1
+  weight: 1.5
+  height: 1.5
+  bodyfat: 1.5
+  leftarm: 1.5
+  rightarm: 1.5
+  body: 1.5
+  leftleg: 1.5
+  rightleg: 1.5
